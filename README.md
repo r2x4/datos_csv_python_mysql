@@ -23,7 +23,7 @@ El desarrollo del proyecto consistió en tomar datos de una base de datos Excel 
 ## Imágenes del Proyecto
 ![image](https://github.com/user-attachments/assets/cb3d02a9-f5d0-4acc-a37b-407fcc4fbf5a)
 ![Screenshot 2025-03-26 174025](https://github.com/user-attachments/assets/cfca0de3-65e2-4c07-a747-aef0e991158f)
-![image](https://github.com/user-attachments/assets/5e7820eb-edbd-48a9-9b7b-618624bf8db4)
+![Screenshot 2025-03-26 173128](https://github.com/user-attachments/assets/b0f3d009-370e-43fa-a773-9b55ae5d8db1)
 ![image](https://github.com/user-attachments/assets/3ead1c3c-6ca8-414d-b87f-26ef9ddfa76a)
 
 
