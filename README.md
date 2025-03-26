@@ -14,7 +14,7 @@ Estado del proyecto: Finalizado
 
 <div align="justify" style="width: 80%; margin: 0 auto;">
 
-El desarrollo del proyecto consistió en tomar datos de una base de datos Excel en formato csv despues mediante un script en Python se conecta con MySql, esta conexion  genera una tabla en una base de datos con la tabla inicial mediante triggers se generan dos tablas mas. Con esta información se establece la conexión con el visualizador de datos Power BI, donde realizo tratamiento de datos y genero medidas para plasmar el estado de la operacion que es de tipo servicio de telecomunicaciones de los datos.
+El desarrollo del proyecto consistió en tomar datos de una base de datos Excel en formato csv despues mediante un script en Python se conecta con MySql, esta conexion  genera una tabla en una base de datos con la tabla inicial mediante triggers se generan dos tablas mas. Con esta información se establece la conexión con el visualizador de datos Power BI, donde realizo tratamiento de datos y genero medidas para plasmar el estado de la operacion que es de tipo servicio de telecomunicaciones.
 
 </div>
 
